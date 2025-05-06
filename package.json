@@ -1,7 +1,7 @@
 {
-  "name": "hospital-management-project",
+  "name": "lost-and-found-application-backend",
   "version": "1.0.0",
-  "description": "\"Hospital Management System API: A robust backend solution for managing hospital operations, patient records, staff, and services, built with Node.js and designed for scalability and reliability.\"",
+  "description": "\"lost item Management System API: A robust backend solution for managing hospital operations, patient records, staff, and services, built with Node.js and designed for scalability and reliability.\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,13 @@
     "dev": "nodemon index.js"
   },
   "keywords": [
-    "Hospital",
+    "Item",
     "Management",
-    "Patient",
+    "Found",
     "Records",
-    "Healthcare",
     "API",
     "Node.js",
-    "Medical",
+    "retrieval",
     "Management",
     "System"
   ],
